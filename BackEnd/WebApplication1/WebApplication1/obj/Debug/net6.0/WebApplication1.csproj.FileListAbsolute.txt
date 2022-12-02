@@ -1,0 +1,76 @@
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Snappier.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Pierre.Carrillo\OneDrive - Solera Holdings, Inc\Desktop\Project04\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Snappier.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Luis.PerezMunoz\Projects\New Project\BackEnd\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
