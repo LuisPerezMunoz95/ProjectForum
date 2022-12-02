@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\new-project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\new-project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\new-project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\new-project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Luis.PerezMunoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\BackEnd\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\new-project\\BackEnd\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luis.PerezMunoz\\AppData\\Roaming\\NuGet\\NuGet.Config",

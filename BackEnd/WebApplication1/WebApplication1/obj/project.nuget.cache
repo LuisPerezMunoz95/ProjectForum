@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZR7QZnXMpVts4L1s6cnhVPzOlEIsA98IS+M1iYAJsJFL+ER5Adfc9uxKep57AfzI9yRrYOXy5mP6Q1E3bkJuA==",
+  "dgSpecHash": "HH5nStUHqFSkYxtdEG9BKoILAj5NQzKCOmA6AJHwTqtl62802f3QygcxM9t0Eew0MtY94DmuMHXx5YWDFIpnhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\Luis.PerezMunoz\\Projects\\New Project\\new-project\\BackEnd\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis.PerezMunoz\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Luis.PerezMunoz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
