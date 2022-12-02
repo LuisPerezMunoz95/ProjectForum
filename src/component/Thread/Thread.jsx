@@ -1,6 +1,5 @@
 import React from 'react'
-
-import NewThread from "../../component/NewThread/NewThread";
+import NewPost from "../NewPost/NewPost";
 import pencil from "../../assest/Pencil.jpg";
 import loudspeaker from "../../assest/LoudSpeaker.jpg";
 import question from "../../assest/Question.jpeg";
@@ -215,7 +214,7 @@ function Thread(props) {
           </div>
         </div>
       </div>
-      <NewThread setNewThread={setNewThread} />
+      <NewPost setNewThread={setNewThread} />
       <div hidden={!newThread}>
         <div className="form-group">
           <label htmlFor="inputAddress">Title of Post</label>

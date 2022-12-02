@@ -27,7 +27,7 @@ function Threads() {
     </div>
     ))}
     </div>
-    <Thread showingThread={showingThread} threadTitle={thread_name} threads={threads}setThreads={setThreads}/>
+    <Thread showingThread={showingThread} threadTitle={thread_name} threads={threads} setThreads={setThreads} setShowingThread={setShowingThread}/>
     </div>
   )
 }

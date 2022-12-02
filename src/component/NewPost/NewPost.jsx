@@ -1,6 +1,6 @@
 import React from "react";
 
-function NewThread(props) {
+function NewPost(props) {
   return (
     <button
       type="button"
@@ -14,4 +14,4 @@ function NewThread(props) {
   );
 }
 
-export default NewThread;
+export default NewPost;
