@@ -9,7 +9,7 @@ function NewThread(props) {
         props.setNewThread(true);
       }}
     >
-      New Thread
+      New Post
     </button>
   );
 }

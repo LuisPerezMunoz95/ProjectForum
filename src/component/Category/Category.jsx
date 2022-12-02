@@ -13,9 +13,9 @@ function Category(props) {
     >
       <label htmlFor="inputState">Category</label>
       <select id="inputState" className="form-control">
-        <option defaultValue>Question</option>
-        <option>Suggestion</option>
-        <option>Clarification</option>
+        <option>{props.threadTitle}-Question</option>
+        <option>{props.threadTitle}-Suggestion</option>
+        <option>{props.threadTitle}-Clarification</option>
       </select>
     </div>
   );
